@@ -16,12 +16,8 @@
 
 
 
-<p align="center">
- <a href="#started">Getting Started</a> • 
-  <a href="#routes">API Endpoints</a> •
- <a href="#colab">Collaborators</a> •
- <a href="#contribute">Contribute</a>
-</p>
+
+
 
 <p align="center">
   <b>O ClassManager é um gerenciador de aulas onde os usuários podem facilitar e organizar suas aulas a serem lecionadas e prepara-las também. </b>
